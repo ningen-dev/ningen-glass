@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 2aff5692801b882e8e9c6ee3583a293e_6a978130d9ae11f1bc42525400638852
-    ReservedCode1: mvPP7wWbAT9FPp7C0Oj3tjUc2at71yhFVKzXy2VYtz2TNzHhnUSgHdly8FCcmq5kAVC92ojfNfUUbh9lB1P0B9zPyB68J94x3N3ok649gKa7qLKz7Lw7lyT3v+2c9FlBFEDOK7gNQcy+EwJsy9VcvE0Jmfaz/jF6Jr3p/3EExO6AA62It2gilamNsVY=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 2aff5692801b882e8e9c6ee3583a293e_6a978130d9ae11f1bc42525400638852
-    ReservedCode2: mvPP7wWbAT9FPp7C0Oj3tjUc2at71yhFVKzXy2VYtz2TNzHhnUSgHdly8FCcmq5kAVC92ojfNfUUbh9lB1P0B9zPyB68J94x3N3ok649gKa7qLKz7Lw7lyT3v+2c9FlBFEDOK7gNQcy+EwJsy9VcvE0Jmfaz/jF6Jr3p/3EExO6AA62It2gilamNsVY=
----
-
 # ningen-glass
 
 从「凝恩浏览器」里抽出的两个自研内核：**液态玻璃视觉层** 与 **多引擎搜索**。
@@ -171,4 +160,3 @@ javac -source 11 -target 11 -encoding UTF-8 \
 MIT。随便用，改了也不用告诉我。唯一的要求是保留版权声明。
 
 原作者：凝恩（ningen-dev）
-*（内容由AI生成，仅供参考）*
